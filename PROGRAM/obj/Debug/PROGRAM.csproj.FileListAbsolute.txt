@@ -1,0 +1,9 @@
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\bin\Debug\PROGRAM.exe.config
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\bin\Debug\PROGRAM.exe
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\bin\Debug\PROGRAM.pdb
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\obj\Debug\PROGRAM.csproj.AssemblyReference.cache
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\obj\Debug\PROGRAM.Properties.Resources.resources
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\obj\Debug\PROGRAM.csproj.GenerateResource.cache
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\obj\Debug\PROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\obj\Debug\PROGRAM.exe
+C:\Users\jgy19\source\repos\PROGRAM\PROGRAM\obj\Debug\PROGRAM.pdb
